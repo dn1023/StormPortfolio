@@ -267,18 +267,18 @@
   ],
   "educations": [
     {
-      "institute": "Temasek Secondary School",
+      "institute": "Berlin Cosmopolitan School",
       "degree": "No Degree",
       "duration": "2004 - 2011"
     },
     {
-      "institute": "Nanyang Technological University",
+      "institute": "Gisma University of Applied Sciences",
       "degree": "Bachelor's degree, Computer Software Engineering",
       "duration": "2011 - 2014",
       "desc": [
-        "Nanyang Technological University is one of Singapore's two major national universities.",
-        "Founded in 1981, it is also the second-oldest autonomous university in the country",
-        " 50 Nanyang Ave, Singapore 639798"
+        "Gisma University of Applied Sciences is a privately owned University in Germany with its main site in Potsdam and a branch in Berlin.",
+        "Collaborated with cross-functional teams to identify cost-saving opportunitiesand ensure alignment ofsupply chain activities with business objectives.",
+        "It was launched in September 1999 as a joint initiative by the German state of Lower Saxony and several large private-sector companies that were based there."
       ]
     }
   ],
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "company": "NosokTech",
+      "company": "Freelancer",
       "position": "Senior Web Developer",
       "duration": "2016 Sep - 2017 Sep",
       "desc": [
