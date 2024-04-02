@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Vegetable Destroyer",
+    "name": "Storm Destroyer",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
       "Frontend Development",
@@ -15,7 +15,7 @@
       "dApp Development",
       "Solana, Bit, Ether, Injective Development"
     ],
-    "heroImage": "https://i.ibb.co/rvhgw70/1.png",
+    "heroImage": "https://i.ibb.co/h9cgpFN/m4.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -24,7 +24,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/WvVBtQr/2.png",
+    "aboutImage": "https://i.ibb.co/xfP8Msb/1712013102702z69mc078-transformed.png",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Full Stack Developer",
     "about": "I am a Full-Stack developer who has very experienced skills with Big Software development Company. As you can see my Work history, I have very rich experience at Web Development, Mobile Development, BlockChain Development. working with several years at Software development Company as a Senior Developer or Lead Developer, I have earned many of skills and understand deeply what clients loves and why they want requirements. When we working together, this will be great help. Looking forward man who wants to make your dream to real. Let's go, I am always here with you.",
@@ -75,171 +75,171 @@
       "image": "https://i.ibb.co/pKyGfcX/angular.png",
       "name": "angular"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/Kr2dHyG/material-ui.png",
       "name": "Material UI"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/kQ4wpv4/next.png",
       "name": "Next"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/WsbNnYG/nuxt.png",
       "name": "Nuxt"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/Kb7FBbZ/react.png",
       "name": "React"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/rbhXB39/redux.png",
       "name": "Redux"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/hfFK03D/sevelt.png",
       "name": "Sevelt"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/WfQk6kw/tailwind.png",
       "name": "Tailwind CSS"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/pWH2LHz/vue.png",
       "name": "Vue"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/VxmyzkP/VueX.png",
       "name": "Vuex"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/23jBsdQ/zustand.png",
       "name": "Zustand"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/q7SgqMP/bootstarp.png",
       "name": "Bootstrap"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/n39wgkX/CSS3.png",
       "name": "CSS3"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/HdQrmPD/foundation.jpg",
       "name": "Foundation"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/yNsyrfG/HTML5.png",
       "name": "HTML5"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/YtW9h08/jquery.png",
       "name": "jQuery"
     },
-  {
+    {
       "category": "Frontend",
       "image": "https://i.ibb.co/WW7SMnk/JS.png",
       "name": "JS"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/641qWbs/django.png",
       "name": "Django"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/h7sDjcg/express.png",
       "name": "Express"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/9hKn8wt/flask.png",
       "name": "Flask"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/2Kn4Tgk/laravel.png",
       "name": "Laravel"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/3Mpzh2L/node.png",
       "name": "Node"
     },
-  {
+    {
       "category": "Backend",
       "image": "https://i.ibb.co/hm6rfSv/php.png",
       "name": "PHP"
     },
     {
-        "category": "Database",
-        "image": "https://i.ibb.co/5r6r0pj/firebase.png",
-        "name": "Firebase"
-      },
+      "category": "Database",
+      "image": "https://i.ibb.co/5r6r0pj/firebase.png",
+      "name": "Firebase"
+    },
     {
-        "category": "Database",
-        "image": "https://i.ibb.co/2qfsDfj/mongodb.jpg",
-        "name": "MongoDB"
-      },
-  {
+      "category": "Database",
+      "image": "https://i.ibb.co/2qfsDfj/mongodb.jpg",
+      "name": "MongoDB"
+    },
+    {
       "category": "Database",
       "image": "https://i.ibb.co/2KBcMNM/sql.jpg",
       "name": "Sql"
     },
     {
-        "category": "Server",
-        "image": "https://i.ibb.co/zbK92jz/aws.png",
-        "name": "AWS"
-      },
+      "category": "Server",
+      "image": "https://i.ibb.co/zbK92jz/aws.png",
+      "name": "AWS"
+    },
     {
-        "category": "Server",
-        "image": "https://i.ibb.co/hs3gCHG/digitalocean.png",
-        "name": "DigitalOcean"
-      },
-  {
+      "category": "Server",
+      "image": "https://i.ibb.co/hs3gCHG/digitalocean.png",
+      "name": "DigitalOcean"
+    },
+    {
       "category": "Server",
       "image": "https://i.ibb.co/gJptzxr/vercel.png",
       "name": "Vercel"
     },
-  {
-    "category": "Tools",
-    "image": "https://i.ibb.co/5chM6Dw/code-commit.png",
-    "name": "Code Commit"
-  },
-  {
-    "category": "Tools",
-    "image": "https://i.ibb.co/sssWZKr/git.png",
-    "name": "Git"
-  },
-  {
-    "category": "Tools",
-    "image": "https://i.ibb.co/M926L98/gitlab.png",
-    "name": "Gitlab"
-  },
-  {
-    "category": "Tools",
-    "image": "https://i.ibb.co/hCc6s3n/slack.png",
-    "name": "Slack"
-  },
-  {
-    "category": "Tools",
-    "image": "https://i.ibb.co/hf2BCT5/bitbucket.png",
-    "name": "Bitbucket"
-  }
+    {
+      "category": "Tools",
+      "image": "https://i.ibb.co/5chM6Dw/code-commit.png",
+      "name": "Code Commit"
+    },
+    {
+      "category": "Tools",
+      "image": "https://i.ibb.co/sssWZKr/git.png",
+      "name": "Git"
+    },
+    {
+      "category": "Tools",
+      "image": "https://i.ibb.co/M926L98/gitlab.png",
+      "name": "Gitlab"
+    },
+    {
+      "category": "Tools",
+      "image": "https://i.ibb.co/hCc6s3n/slack.png",
+      "name": "Slack"
+    },
+    {
+      "category": "Tools",
+      "image": "https://i.ibb.co/hf2BCT5/bitbucket.png",
+      "name": "Bitbucket"
+    }
   ],
   "projects": [
     {
