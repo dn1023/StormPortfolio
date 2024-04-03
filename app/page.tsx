@@ -8,6 +8,7 @@ async function getData() {
   // return await (await get(ref(database))).val()
 
   const DB_URL = process.env.NEXT_PUBLIC_FIREBASE_DATABASE_URL + '/.json'
+  console.log(DB_URL)
   const res = await fetch(DB_URL, { cache: 'no-store' })
   const data = res.json()
   return data
