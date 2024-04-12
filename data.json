@@ -12,7 +12,7 @@
       "Windows App Development",
       "BlockChain Development",
       "Smart Contract Development",
-      "dApp Development",
+      "App Development",
       "Solana, Bit, Ether, Injective Development"
     ],
     "heroImage": "https://i.ibb.co/h9cgpFN/m4.jpg",
@@ -34,19 +34,19 @@
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "www.linkedin.com/in/adam-zhao-2a6a6a2b6"
+      "link": "www.linkedin.com/in/bruno-protz-5707972b2/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/VegetableDev0701"
+      "link": "https://github.com/dn1023"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "link": "https://www.instagram.com/"
     },
     {
       "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
+      "link": "https://twitter.com/"
     }
   ],
   "skills": [
