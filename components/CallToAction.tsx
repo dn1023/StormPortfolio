@@ -16,11 +16,11 @@ const CallToAction = () => {
                 <h3 className="md:text-base lg:text-xl font-medium mt-1.5">I would like to <span className="text-yellow-400">work</span> with you.</h3>
                 <p className="text-sm md:text-base mt-2.5 md:mt-6">Thanks for your time.</p>
                 <div className="flex items-center gap-4 my-4">
-                    <Link href="https://github.com/jigar-sable/next-portfolio" target="_blank" className="py-2 px-4 bg-white text-black rounded-lg w-fit flex items-center gap-2 hover:shadow-xl transition-shadow">
+                    <Link href="https://github.com/" target="_blank" className="py-2 px-4 bg-white text-black rounded-lg w-fit flex items-center gap-2 hover:shadow-xl transition-shadow">
                         <FaGithub />
                         Fork Now
                     </Link>
-                    <Link href="https://github.com/jigar-sable/next-portfolio#readme" target="_blank" className="py-2 px-4 bg-violet-800 rounded-lg w-fit flex items-center gap-2 hover:bg-violet-900 transition-all">
+                    <Link href="https://github.com/" target="_blank" className="py-2 px-4 bg-violet-800 rounded-lg w-fit flex items-center gap-2 hover:bg-violet-900 transition-all">
                         Visit Docs
                         <BiLinkExternal />
                     </Link>
